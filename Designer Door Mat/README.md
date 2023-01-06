@@ -13,6 +13,8 @@ The design pattern should only use `|`, `.` and `-` characters.
 `9 27`
 
 **Sample Output**
+
+
 `
 ---------------.|.---------------
 ------------.|..|..|.------------
